@@ -8,7 +8,7 @@ $ apt install python
 
 $ apt install git
 
-$ git clone https://github.com/Myyepz/sby
+$ git clone https://github.com/alifdaffa56/alif
 
 $ cd sby
 
@@ -20,7 +20,7 @@ $ python3 sby.py
 
 Installation for VPS
 
-$ git clone https://github.com/Myyepz/sby
+$ git clone https://github.com/alifdaffa56/alif
 
 $ cd sby
 
