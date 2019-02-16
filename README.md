@@ -10,7 +10,7 @@ $ apt install git
 
 $ git clone https://github.com/alifdaffa56/alif
 
-$ cd sby
+$ cd alif
 
 $ python -m pip install -r requirements.txt
 
@@ -22,7 +22,7 @@ Installation for VPS
 
 $ git clone https://github.com/alifdaffa56/alif
 
-$ cd sby
+$ cd alif
 
 $ python3 -m pip install -r requirements.txt
 
