@@ -1,7 +1,7 @@
 # Please do not replace the text anything but sc.
 # Ini sc gratisan tolong hargain yg buat dict!
 # Rework by Yepz
-# Id : Myyepz
+# Id : Alifsticker
 # Thanks to team hello world
 # -*- coding: utf-8 -*-
 '''
